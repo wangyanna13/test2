@@ -1,0 +1,43 @@
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Compiled files
+*.class
+*.pyc
+__pycache__/
+
+# Build output
+bin/
+build/
+dist/
+target/
+
+# Dependency directories
+node_modules/
+venv/
+.env/
+
+# Log files
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Local configuration files
+*.env
+*.env.local
+config.local.*
